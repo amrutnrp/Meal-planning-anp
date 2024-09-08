@@ -4,20 +4,25 @@ pre-time: 1 day
 ideal_for: breakfast/snack
 nutri_content: protien
 steps:
-  - Soak moong beans in water over night
-  - Make them sprout (optioal)
-  - Mix following spices and blend
-    Green Chilli
-    Garlic
-    Ginger
-    Onion
-    Greens- Coriander / Curry Leaves / Pudina
-    water / curd
-  - In the batter, mix following items
-    salt
-    chilli powder
-    Diced Onion
-    flour (to rediuce the water)
-        atta
-        rice flour (rice flour needs to be soaked for a longer time , makes it crispy)
-  - Pan fry them
+    - \ Moong Raw/green
+    - Soak moong beans in water over night
+    - o Make them sprout
+    - Mix following spices and blend
+    - \ Green Chilli
+    - \ Garlic      
+    - \ Ginger      
+    - \ Onion       
+    - \o Greens- Coriander / Curry Leaves / Pudina
+    - \ water / curd
+    - After the batter is done,, mix following items
+    - \ salt
+    - \ chilli powder
+    - \ Diced Onion
+    - flour to rediuce the water
+    - \o atta/ rice flour
+    - rice flour needs to be soaked for a longer time , makes it crispy
+    - \o Diced Tomato - for browning
+    - Pan fry them
+# \ means it's a component in cooking
+# \o means ingredient is optional
+# o means step is optional
