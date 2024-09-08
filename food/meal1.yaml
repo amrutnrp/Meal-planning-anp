@@ -1,8 +1,8 @@
 dish: Moong sprout pancake
-prep-time: xx
+prep-time: 15min
 pre-time: 1 day
 ideal_for: breakfast/snack
-nutri_content: protien
+nutri_content: protien carb antioxidant
 steps:
     - \ Moong Raw/green
     - Soak moong beans in water over night
@@ -23,6 +23,10 @@ steps:
     - rice flour needs to be soaked for a longer time , makes it crispy
     - \o Diced Tomato - for browning
     - Pan fry them
+    - note. more water take time to cook or breaks the pancake
+link: 
+    - https://www.youtube.com/watch?v=9BaDW9eMxvE
+    - https://www.youtube.com/watch?v=LruDYeymq1Y 
 # \ means it's a component in cooking
 # \o means ingredient is optional
 # o means step is optional

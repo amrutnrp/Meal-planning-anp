@@ -1,0 +1,15 @@
+dish: Fruit Bowl + Egg
+prep-time:
+pre-time: 
+ideal_for: brakfast / snack / dressing
+nutri_content: protien carb antioxidant
+steps:
+    - Boiled Egg with yolk
+    - Fruit bowl
+    - \ Sour - Citrus sprinkles, Pineapple
+    - \ Sweet - Mango, 
+    - \ Fiber - Watermelon, Muskmelon, 
+link:
+# \ means it's a component in cooking
+# \o means ingredient is optional
+# o means step is optional

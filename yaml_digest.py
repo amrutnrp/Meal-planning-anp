@@ -23,3 +23,9 @@ for file in meal_files:
         meal_info_each = yaml.safe_load(file)
         meal_info .append ( meal_info_each )
 
+
+if __name__ == "__main__":
+    h= meal_info_each['steps']
+    
+    print ('\n'.join ( h))
+    h = input ('continue')
